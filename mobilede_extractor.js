@@ -1,16 +1,11 @@
 import { chromium } from 'patchright';
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const [,, modelName, modelCode, proxy] = process.argv;
 
 const outputDir = path.join(__dirname, 'input');
 if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
-
-const carModelsPath = path.join(__dirname, 'models.json');
-const carModels = JSON.parse(fs.readFileSync(carModelsPath, 'utf-8'));
 
 const SEARCH_URL_BASE =
   'https://suchen.mobile.de/fahrzeuge/search.html?con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&ms={car_model}&ref=srp&s=Car&vc=Car&pageNumber={PAGE}&lang=en';
@@ -42,53 +37,42 @@ async function extractCarDataFromPage(page) {
 }
 
 (async () => {
-  const browser = await chromium.launchPersistentContext('', {
+  // プロキシの設定（必要に応じて）
+  const launchOptions = {
     channel: 'chrome',
     headless: false
-  });
+  };
+  if (proxy) {
+    launchOptions.proxy = { server: proxy };
+  }
 
-  for (const [modelName, modelCode] of Object.entries(carModels)) {
-    console.log(`\n=== ${modelName} (${modelCode}) のスクレイピング開始 ===`);
-    const carList = [];
+  const browser = await chromium.launchPersistentContext('', launchOptions);
+  const carList = [];
 
-    for (let pageNum = 1; pageNum <= MAX_PAGES; pageNum++) {
-      const page = await browser.newPage();
-      const url = SEARCH_URL_BASE
-        .replace('{car_model}', modelCode)
-        .replace('{PAGE}', pageNum);
+  for (let pageNum = 1; pageNum <= MAX_PAGES; pageNum++) {
+    const page = await browser.newPage();
+    const url = SEARCH_URL_BASE
+      .replace('{car_model}', modelCode)
+      .replace('{PAGE}', pageNum);
 
-      console.log(`Fetching page: ${pageNum} -> ${url}`);
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.click('button[data-testid="uc-accept-all-button"]', { timeout: 3000 }).catch(() => {});
+      await page.waitForSelector('div.mN_WC', { timeout: 15000 }).catch(() => {});
+      await new Promise(r => setTimeout(r, 3000 + Math.random() * 3000));
+      const cars = await extractCarDataFromPage(page);
 
-      try {
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      carList.push(...cars);
 
-        // Cookie同意モーダル処理（無ければスキップ）
-        await page.click('button[data-testid="uc-accept-all-button"]', { timeout: 3000 }).catch(() => {});
-
-        // 結果が非同期ロードされるのを待つ
-        await page.waitForSelector('div.mN_WC', { timeout: 15000 }).catch(() => {});
-
-        await new Promise(r => setTimeout(r, 3000 + Math.random() * 3000));
-
-        const cars = await extractCarDataFromPage(page);
-        console.log('Found:', cars.length, 'cars');
-        carList.push(...cars);
-
-        await page.close();
-
-        if (cars.length === 0) break;
-      } catch (err) {
-        console.error(`Error on ${modelName} page ${pageNum}:`, err.message);
-        await page.close();
-        break;
-      }
+      await page.close();
+      if (cars.length === 0) break;
+    } catch (err) {
+      await page.close();
+      process.exit(1); // batchRunner.jsが進捗管理
     }
-
-    const outputPath = path.join(outputDir, `${modelName}.json`);
-    fs.writeFileSync(outputPath, JSON.stringify(carList, null, 2));
-    console.log(`${modelName}: 抽出完了 (${carList.length} 件)`);
   }
 
   await browser.close();
-  console.log('すべての車種スクレイピング完了');
+  fs.writeFileSync(path.join(outputDir, `${modelName}.json`), JSON.stringify(carList, null, 2));
+  process.exit(0); // batchRunner.jsが進捗管理
 })();
