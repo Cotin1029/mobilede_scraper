@@ -1,16 +1,6 @@
-import 'dotenv/config';
 import { chromium } from 'playwright';
 import fs from 'fs';
 import path from 'path';
-
-// ScraperAPI設定
-const SCRAPERAPI_KEY = process.env.SCRAPERAPI_KEY;
-if (!SCRAPERAPI_KEY) {
-  console.error('❌ SCRAPERAPI_KEY environment variable is not set');
-  process.exit(1);
-}
-// ScraperAPIプロキシエンドポイント（HTTPS用）
-const SCRAPERAPI_PROXY = `http://scraperapi:${SCRAPERAPI_KEY}@proxy.scraperapi.com:8002`;
 
 const outputDir = path.resolve('./output');
 if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
@@ -118,10 +108,11 @@ const carList = loadAllJsonFiles();
 console.log(`合計 ${carList.length}件読み込み完了`);
 if (carList.length === 0) process.exit(1);
 
-// ScraperAPIを使用するため、プロキシリストは不要
-console.log(`🔑 ScraperAPI使用: proxy.scraperapi.com:8002`);
+const proxyList = JSON.parse(fs.readFileSync('./proxies.json', 'utf8'));
+let proxyIndex = 0;
 
 let currentContext = null;
+let currentProxyIndex = null;
 let successCount = 0;
 let saveCount = 0;
 
@@ -159,7 +150,21 @@ function saveProgress(processedIndex) {
   }
 }
 
-// ScraperAPIを使用するため、プロキシ管理関数は不要
+function getNextProxy() {
+  if (proxyList.length === 0) throw new Error('プロキシなし');
+  const index = proxyIndex;
+  const proxy = proxyList[index];
+  proxyIndex = (proxyIndex + 1) % proxyList.length;
+  return { proxy, index };
+}
+
+function removeProxyByIndex(index) {
+  if (index >= 0 && index < proxyList.length) {
+    proxyList.splice(index, 1);
+    if (proxyIndex > index) proxyIndex--;
+    if (proxyIndex >= proxyList.length) proxyIndex = 0;
+  }
+}
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -296,13 +301,14 @@ async function safeCloseContext() {
     console.warn('コンテキスト終了エラー:', e.message);
   } finally {
     currentContext = null;
+    currentProxyIndex = null;
     consecutiveEmpty = 0;
   }
   console.log('✅ コンテキスト終了完了');
 }
 
 async function getOrCreateContext() {
-  if (currentContext) return { context: currentContext };
+  if (currentContext) return { context: currentContext, proxyIndex: currentProxyIndex };
   
   const userDataDir = path.join(outputDir, `tmp_ctx_${Date.now()}_${Math.random().toString(36).slice(2)}`);
   if (fs.existsSync(userDataDir)) fs.rmSync(userDataDir, { recursive: true, force: true });
@@ -310,38 +316,43 @@ async function getOrCreateContext() {
   
   const result = await launchBrowserWithProxy(userDataDir);
   currentContext = result.context;
-  console.log(`🆕 コンテキスト作成: ScraperAPI`);
+  currentProxyIndex = result.proxyIndex;
+  console.log(`🆕 コンテキスト: ${result.proxy}`);
   return result;
 }
 
 async function launchBrowserWithProxy(userDataDir) {
-  try {
-    const launchOptions = {
-      headless: false,
-      userDataDir,
-      channel: 'chrome',
-      proxy: { server: SCRAPERAPI_PROXY },
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-blink-features=AutomationControlled',
-        '--disable-extensions',
-        '--no-first-run'
-      ]
-    };
+  for (let i = 0; i < proxyList.length; i++) {
+    const { proxy, index } = getNextProxy();
+    try {
+      const launchOptions = {
+        headless: false,
+        userDataDir,
+        channel: 'chrome',
+        args: [
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-blink-features=AutomationControlled',
+          '--disable-extensions',
+          '--no-first-run'
+        ]
+      };
+      if (proxy) launchOptions.proxy = { server: proxy };
 
-    const context = await Promise.race([
-      chromium.launchPersistentContext(userDataDir, launchOptions),
-      sleep(30000).then(() => { throw new Error('ブラウザ起動タイムアウト'); })
-    ]);
-    
-    console.log(`✅ ScraperAPIプロキシ接続成功`);
-    return { context };
-  } catch (e) {
-    console.error(`❌ ScraperAPIプロキシ接続失敗:`, e.message);
-    throw new Error('ScraperAPIプロキシ接続失敗');
+      const context = await Promise.race([
+        chromium.launchPersistentContext(userDataDir, launchOptions),
+        sleep(30000).then(() => { throw new Error('ブラウザ起動タイムアウト'); })
+      ]);
+      
+      console.log(`✅ プロキシ成功: ${proxy}`);
+      return { context, proxy, proxyIndex: index };
+    } catch (e) {
+      console.warn(`❌ プロキシ失敗 ${proxy}:`, e.message);
+      removeProxyByIndex(index);
+    }
   }
+  throw new Error('全プロキシ失敗');
 }
 
 async function isAccessDenied(response) {
@@ -361,57 +372,57 @@ async function fetchCarDataWithRetry(car, currentIndex) {
     urlRetries++;
     console.log(`🔄 URLリトライ ${urlRetries}/${MAX_RETRIES_PER_URL}: ${car.detail_url.slice(0, 80)}...`);
     
-    let detailPage = null;
-    try {
-      const { context } = await getOrCreateContext();
-      detailPage = await context.newPage();
+    for (let proxyRetry = 0; proxyRetry < proxyList.length; proxyRetry++) {
+      let detailPage = null;
+      try {
+        const { context } = await getOrCreateContext();
+        detailPage = await context.newPage();
 
-      const response = await Promise.race([
-        detailPage.goto(car.detail_url, { waitUntil: 'domcontentloaded', timeout: 60000 }),
-        sleep(60000).then(() => { throw new Error('ページ読み込みタイムアウト（60秒）'); })
-      ]);
+        const response = await Promise.race([
+          detailPage.goto(car.detail_url, { waitUntil: 'domcontentloaded', timeout: 60000 }),
+          sleep(60000).then(() => { throw new Error('ページ読み込みタイムアウト（60秒）'); })
+        ]);
 
-      if (await isAccessDenied(response)) {
-        console.warn(`🚫 アクセス拒否`);
+        if (await isAccessDenied(response)) {
+          console.warn(`🚫 アクセス拒否 (${proxyRetry + 1}/${proxyList.length})`);
+          await detailPage.close();
+          continue;
+        }
+
+        const hasContent = await detailPage.waitForSelector('dt, dd, h1', { timeout: 10000 }).catch(() => false);
+        if (!hasContent) {
+          consecutiveEmpty++;
+          console.warn(`🚫 コンテンツなし (${consecutiveEmpty}/${MAX_CONSECUTIVE_EMPTY})`);
+          await detailPage.close();
+          if (consecutiveEmpty >= MAX_CONSECUTIVE_EMPTY) {
+            await safeCloseContext();
+          }
+          continue;
+        }
+
+        consecutiveEmpty = 0;
+        await handleConsentModal(detailPage);
+        await sleep(4000 + Math.random() * 3000);
+        
+        const details = await extractCarDetails(detailPage);
+        Object.assign(car, details);
+        
         await detailPage.close();
-        await sleep(5000);
-        continue;
-      }
+        console.log(`✅ 取得成功: ${car.car_name}`);
+        return car;
 
-      const hasContent = await detailPage.waitForSelector('dt, dd, h1', { timeout: 10000 }).catch(() => false);
-      if (!hasContent) {
-        consecutiveEmpty++;
-        console.warn(`🚫 コンテンツなし (${consecutiveEmpty}/${MAX_CONSECUTIVE_EMPTY})`);
-        await detailPage.close();
-        if (consecutiveEmpty >= MAX_CONSECUTIVE_EMPTY) {
+      } catch (e) {
+        console.warn(`💥 プロキシエラー ${proxyRetry + 1}/${proxyList.length}: ${e.message}`);
+        await detailPage?.close().catch(() => {});
+        if (e.message.includes('TIMED_OUT') || e.message.includes('net::ERR')) {
           await safeCloseContext();
         }
-        await sleep(5000);
-        continue;
       }
-
-      consecutiveEmpty = 0;
-      await handleConsentModal(detailPage);
-      await sleep(4000 + Math.random() * 3000);
-      
-      const details = await extractCarDetails(detailPage);
-      Object.assign(car, details);
-      
-      await detailPage.close();
-      console.log(`✅ 取得成功: ${car.car_name}`);
-      return car;
-
-    } catch (e) {
-      console.warn(`💥 ScraperAPIエラー: ${e.message}`);
-      await detailPage?.close().catch(() => {});
-      if (e.message.includes('TIMED_OUT') || e.message.includes('net::ERR')) {
-        await safeCloseContext();
-      }
-      await sleep(5000);
     }
+    await sleep(5000);
   }
   
-  console.error(`💥 ${MAX_RETRIES_PER_URL}回リトライ失敗 → スキップ: ${car.detail_url}`);
+  console.error(`💥 3回リトライ失敗 → スキップ: ${car.detail_url}`);
   failedUrls.push({
     url: car.detail_url,
     car_name: car.car_name || '不明',

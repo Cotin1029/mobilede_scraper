@@ -1,0 +1,2466 @@
+[
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3d/3d6cd187-c87b-4f29-969f-6db9a3e3d8c9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441729258&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€16,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1f/1f3773af-3e55-4c23-9f4f-90aa561984da?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441552267&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/39/399762b7-9404-4616-8782-454d4f6dc5b1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=435493996&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e0/e0a65fb8-d53e-416d-ad13-8da999418653?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439522490&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€39,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/04/04b7439a-1449-4d23-b303-cdcbddaf5a09?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439488015&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€36,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1a/1afc5ea0-d189-4e18-a0b9-64f7a4de7c39?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440621383&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€37,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a5/a5cc6293-e7b5-4d71-b42a-d38d05682a9c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439959918&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€16,750",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f9/f994101c-e234-436b-a0a7-b6da38337c3d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441707286&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€21,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/58/587191d4-e65d-47d9-8fb6-7c85836c8810?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438100439&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€40,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2e/2e38451c-e48f-4f61-82b9-4ccf86135b88?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441426907&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/6f/6f353ae0-22c8-4cff-9812-8a99e27a9d6d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434777115&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€27,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5b/5b8d8382-f25d-41e7-90e9-42f919056406?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440826537&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€17,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c7/c7b2dc06-d2e9-46ca-8d5e-4049541a0a5f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441038313&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,470",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f3/f3b3f73d-cd17-4e49-bcfa-858cd99c4448?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=413837159&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€17,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/64/64885ee0-a09e-4a35-8406-4aba4f20e56f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=374681463&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€13,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ba/ba861f4d-67f0-49d1-b074-54f6b51dcf99?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434487806&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€26,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bd/bd30b220-99fa-46e5-b590-a6a441c27994?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=425936762&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€20,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b3/b37575b8-ba12-4fe7-be15-3ad499b643c6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441061534&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/91/913df584-713b-4727-8601-44c130b8e6fe?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442512939&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€23,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9d/9de52465-b833-419a-b0d8-50ff2ca3a7d0?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438548423&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=2&ref=srp&refId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&s=Car&sb=rel&searchId=08809e0e-3ad8-2391-e955-0972ac2d8a4b&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/18/18e51927-8b31-41bb-bcc6-8eb35b912f40?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441195331&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/12/125c3aff-abfa-4344-b14f-832b72b3d5b2?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438693318&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€22,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/de/de55031c-3ea6-4464-8c0e-ed5a63fdb87e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442197653&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9f/9fab7400-4e1e-469e-b8f1-e9c8a56601ba?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434607317&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€18,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0f/0f083ce8-488e-4b33-8291-493913c8fb33?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439969653&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€46,995",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f1/f1b6068e-4b82-4d50-ac94-421c57ee7b57?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=430116394&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€21,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/35/352cbbed-51fa-407e-bb2d-f57bcc3073dd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441398552&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/45/45a298ec-7ccf-4315-bebc-b337c30ddeb4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441205588&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€15,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/31/31a33a32-5a9b-4a5c-84e0-8538e6100e56?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=430944083&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f1/f19c0045-a439-481d-a7d3-d1461586e2fb?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=417563831&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€16,499",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/40/408fd460-279a-4b5b-836c-68a023ecc22e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440006059&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€22,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b2/b2b9ff24-588f-49d7-ab61-725e906ac901?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=435776169&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€36,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/55/55275798-9dac-44af-a9d7-ef9e05854f71?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=423733361&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€23,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/dd/dddc34be-f8ff-420e-81fd-ae846303f6d1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441704844&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€25,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/03/03e8596a-d0c3-40fa-9d64-485036ba5711?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439897603&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€29,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/80/804f6c00-0118-4472-8fce-b666904584bf?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439025053&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€28,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/40/405a3cbd-d62d-4c85-880a-e97c6b223c41?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=431832235&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/41/41c5e170-7897-41e8-8de4-78be95f54949?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442183566&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/39/39afd228-f870-4297-b79a-56059d45f6dd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440466037&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9f/9f42a434-9b12-4152-bbbd-caf918262f25?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440634953&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=3&ref=srp&refId=20265ccf-972e-762e-d0c3-5f570defda18&s=Car&sb=rel&searchId=20265ccf-972e-762e-d0c3-5f570defda18&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b0/b07b2dad-e594-44da-96e4-935424a65d5d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440789741&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€32,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/df/dfa24b3b-a980-474a-861d-0cb5593942f5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=408532798&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€30,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9f/9f8c2ea1-8694-467f-be3c-a7c6dde07526?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=423606790&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b5/b5149942-42c4-4b0b-b495-0226b393a2c9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439921192&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€22,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc23add9-6ccc-4d02-8e1e-bfd24aa6a6dd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439078523&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,650",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/79/7920ef2a-c363-4ddb-a432-d2b5e6e772ad?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442054899&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€13,299",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fa/fadc8c89-f9e0-40b7-be41-00943923487d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438233230&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/15/15920646-6212-4c23-bb0b-8a572c65e81e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=414561889&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/99/992bf9ec-40f5-414d-b007-af980256ed60?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436733567&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0b/0b9a6eeb-eba9-432c-99e0-c28fca213e20?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440429579&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c2/c2511819-5b3d-4065-bd4f-28e49ce03365?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441364200&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ce/ceab0c13-d719-4507-b072-bf653438343f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442560175&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€17,950",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b9/b9994a87-5fd6-4479-a094-c084523b117b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438246502&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,650",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1e/1e473896-aabd-48ab-bb78-fc9d6bc041dd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440560132&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/cf/cf73bd5e-22e5-44e3-b0bb-e2fde774f44f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434083603&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€18,888",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/cb/cbac75c6-3208-4152-b166-9e17a9e9773d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440864028&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€15,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/6f/6fcb398d-a319-45e7-abc3-f2dca060389e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=427105451&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/93/93179e70-f09d-41c8-96d2-3e863c289bc6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438587155&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€15,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/56/56302868-ae32-4a4b-bf97-a04a873a1593?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=437927142&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,950",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/6b/6b9d7002-de58-4dfa-91eb-64c96b7f982e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436985908&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=4&ref=srp&refId=43b17020-2a6f-eb94-3127-c62c44389832&s=Car&sb=rel&searchId=43b17020-2a6f-eb94-3127-c62c44389832&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€15,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b7/b70a687a-5a3c-47bf-998e-f116f3b491c0?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=431142216&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a2/a26862d8-1578-46b5-9ca8-8969f044c261?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442258821&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€47,980",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e9/e955f260-0ec1-4a55-9f34-b3e19ad2496f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440024909&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b9/b90bc032-9470-4cad-a0a3-7f5167e24678?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442155426&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€36,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/07/07eedac3-4e77-4180-8b86-7bd33cd96a7a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=420051944&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/8a/8ad47a24-4c4a-4b58-a256-2c1e5dd573c5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442117318&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4f/4f35407f-29af-4269-a0b7-ee97c7058d4b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438036366&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/33/33e0805d-fcfa-4d1d-a8c9-1663306e01e3?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=431491976&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€37,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f0/f036ee22-2237-48c7-8a04-b5a0980bbb1e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442598655&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/92/92195d31-2cb5-4c5e-9979-43f43d0bc44e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=426651522&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€18,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7e/7ef24b05-420c-48c4-864a-3ed59b88fdc2?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=426742902&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€35,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/16/16a4e5b8-3ba3-48a7-bcf0-1edd5d9b64c7?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=377656119&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7bd89ee-c5cb-4ab8-85a5-4cada2fe8fae?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=425580295&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d6891cf-1833-479c-b5c2-3358f7bada6b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=417102594&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€26,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/49/49b7c36b-7f9f-4041-9e6e-cc13a611999e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=390998894&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,888",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/91/914d5829-f94e-4359-af67-f56f00839558?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=414615037&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€15,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/82/82d01817-b95b-4382-adcd-5a2e9a1de63f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439477120&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/12/12439ae5-ba70-4060-9181-74a90f49a49f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442558204&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fd/fd88e137-b2fe-4d33-a210-fa6cf345ee06?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441261270&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b1/b1b2a7db-eac6-423f-926d-eb39eff80ef9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439312220&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=5&ref=srp&refId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&s=Car&sb=rel&searchId=0de7ad64-3ebf-ef7a-2604-1471d0cc4974&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0d/0d692ead-761c-4e97-b919-b41c02f40e5b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442560551&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,250",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/68/68f724ea-39d3-43fe-9957-f9ec9fed78d3?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442198874&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c1/c1cd53ae-2b3f-4473-9a86-736f65db7271?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440228394&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0a/0aeae70f-3bca-4d5c-99ab-b4a77efdb39c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=423899883&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/71/71415486-a565-49af-84d4-829b0cf199b1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441878755&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€21,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/43/434688b3-1e45-42d4-b4fe-beb1f499a7d4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440263632&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/31/31446d9a-1972-4fc8-9f98-28b12fed0cc4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442112892&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/81/81c4417a-c2e4-48ae-8c87-3b568687d335?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441130389&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€17,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f7/f7300df2-dd08-494b-ada3-c625062ae36e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=309172998&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5a/5a321c3c-661f-410a-baba-ca8880b0bd47?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=418265298&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2b/2bf5d9e4-f360-452b-a066-88bb6a0bdeef?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442254712&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a3/a3fb71ca-338c-4925-980e-91091248016b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=427059324&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f8/f8df0b72-94b9-497c-8382-a6166d0457f6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=406458843&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ee/ee9246ba-eb8d-4f28-b8fb-3f70e3fed84a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440488116&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,350",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/33/3391510a-7f58-44c3-a3a9-c2a861190900?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442141225&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4a/4ac67a4a-ddde-454b-9c73-30140657709c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=421474940&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3c/3c012798-4c91-44bd-8c07-7bf97ecac475?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=322681304&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/47/478e0b9b-9366-411b-832b-3cb6f7a59032?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=401825576&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€24,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/40/40e79c0f-5bb8-4d55-9431-c3b240210a55?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442393806&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3e/3e665c48-93be-433c-a7b8-fb8408b1e1dc?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442480352&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=6&ref=srp&refId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&s=Car&sb=rel&searchId=7cd20f13-addb-7d1b-ebdb-0f6f1231e9f9&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/95/95311de6-1165-488c-9d5b-34a723dfbed8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441276100&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ec/ec19dcec-993f-4b4d-92f8-6791d66967fe?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440828952&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/8d/8d828b3b-dff4-4d0e-9a99-00d1d89d459e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=427037551&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,299",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/96/96b45307-79a3-4b74-9b84-d963ca7f1ad9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441014393&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€54,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/00/00904435-5dea-416f-bdff-53c841850c15?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=420469811&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€39,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9c/9c1ec7b3-bfdc-4055-a4fd-e16382344643?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=376568661&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€44,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/81/8175fdd3-92f1-48da-81c4-37d4448126cc?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=400396983&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€18,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/67/67089034-b66a-4526-a5c0-7e498964366e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=391325401&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€18,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/04/04fcb625-8313-4e9a-89a3-985a05c238a4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=396323153&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/29/2932db5c-5516-4899-94c1-0095aed14d67?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440788784&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€13,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/63/63c77ace-ecfa-48fc-9c55-22f8c303b77e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=430189384&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,350",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3c/3c122968-4d78-4cd7-82d0-5f82b0319193?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442328778&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/47/47a4dbc7-b3cf-4e92-997e-10fbca3bcfc4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441700060&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0b/0b572fc1-eb2e-425d-8f3b-8c80e2bc89db?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=428930977&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/51/512bc9c2-b9d7-4d62-9b2b-6557355808fa?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=379970645&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/48/4890f2ad-c23f-49be-b27f-3678c254f64f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442153560&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/17/17bd4ac4-bdb5-4d1f-88e6-761e41f6ee6f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438105131&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€59,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5b/5bda8cdc-677d-4c74-96e8-444ea1941293?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441952289&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€82,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/6d/6da2213c-f53e-43b5-b179-4a9221dc11fe?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442592679&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€41,249",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/75/75274b16-9dea-4d07-b921-4c676b53bd65?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438886374&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=7&ref=srp&refId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&s=Car&sb=rel&searchId=b2e56983-a7c3-3002-23d7-d0ce947c7bed&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€16,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/16/160afc4f-a526-4eee-9a69-cb5501332922?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442241572&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9d/9d48cf66-fcb3-40aa-8db2-e9e79afc0591?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=425268142&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€10,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ee/eecbffd4-c18c-44cf-8446-33645ae1d53a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=435045079&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/37/3710ca07-7c44-4762-aba1-997881e73d57?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439146810&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d7/d7e868c9-194c-460b-9e77-4e0d72f4a36d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=414756549&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9e/9e006fe0-35c8-4c0e-8e3f-12b8dbb56289?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442427429&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€13,499",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a3/a3a5e767-ac64-4bda-be10-44bfb211cdad?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440592755&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,899",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f5/f5acb826-d74a-44c1-9a2c-483e8a7ef701?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441638170&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,111",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/11/11202d3a-0f78-4da2-9706-9be92f7f66df?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442013212&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/55/55e9c593-1349-4e85-8b04-d24981be1647?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439028359&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5d/5dcd9d8b-e653-4cf6-9e3f-6a3f7c75f996?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442240348&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/55/55277276-7118-4ad9-8154-89b6b495bfaf?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441749422&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€59,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3f/3fc1a801-fd82-423a-9f0d-d3688cbfe5b8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=437843610&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bb/bbaebb48-b7c8-48b8-9773-f060b642b39e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=405634633&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/31/31a90cd4-4acf-49bb-89da-b8d2c6f87104?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442359438&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€38,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f3/f30dd6e6-de99-4359-affd-0a7c7b4002c1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442159656&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,690",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9a/9aca79b4-c198-47dd-a89d-779b812117b3?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440907642&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€47,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5c/5c7327d7-32d9-4204-9b27-14f7e1b422c3?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=431645438&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€35,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b6/b6d17ce4-fea1-47c8-8f9f-cfe822b3eead?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=417416048&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,750",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/13/13ec440b-2f7f-4cc7-b39a-038f97174d9d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438914338&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=8&ref=srp&refId=7616f37c-d98d-d594-678d-9a7a43df7276&s=Car&sb=rel&searchId=7616f37c-d98d-d594-678d-9a7a43df7276&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ae/ae044393-1a63-4b57-85c9-d67e669546cd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=428559871&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€49,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/53/53490a9b-307b-46cc-a309-87458c410030?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434255876&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2d/2dece906-67b3-41ce-b2d2-b6f992ff59f5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441032265&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€49,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/87/87d3c697-11c9-4263-b851-768a653b784a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=386885427&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€68,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/48/484a6f89-9849-4a50-aa58-c30338a585de?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441818850&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7c/7c941854-9743-4f3d-a9f5-48aa3f7f7579?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442309145&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/89/89bbe8ca-e28d-421a-84a7-e4080d332b50?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439449489&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e7/e788bb4a-7a5a-42b8-a97f-3d829d8d76ee?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440834139&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,600",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/53/53d76aa8-4098-4cf9-b842-3070fa4b3b04?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442543960&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f1/f1682df3-7389-4def-86e3-1a6043996d56?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442081975&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€69,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/81/813336a5-f893-4dc2-af30-88b9a8d44145?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=431407620&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€78,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bc/bc3ffcbe-a7de-41a3-bc46-fe35e6e33d7d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436042538&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/46/46221348-7b02-471e-bbf4-ce3e0d56a97e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440435674&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€16,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a4/a42db390-1d29-4864-aaa4-eb818130ed13?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=383240011&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€74,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4a/4a323067-5c42-4f46-9b4b-84f3d2a5269f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439065855&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/84/844f0d21-bed4-47c9-b3f9-627ac5772835?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=437505692&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5c/5c9fc291-5e9f-4505-927a-cd94dca41d1e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441276713&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/03/03666594-b52e-4944-b88a-44dfd5c43366?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442154892&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/62/62f9d965-f12d-4fdb-8a78-dbeec833760b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438641246&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,600",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c9/c9eccb47-52f4-4a62-8ced-4fb4e704752d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441240636&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=9&ref=srp&refId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&s=Car&sb=rel&searchId=d97cd923-43bf-dfdd-db05-1da8e7fbcf14&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a7/a7b2b942-69b5-4a43-aed5-2b40c498108c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442523787&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/df/dfde1359-1605-464e-85cf-3047708060a9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440509245&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/12/12379834-de9d-4548-99cd-b759ad3b11f0?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441131641&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9a/9ac29c38-35bb-4ff5-8dc7-28cee809227f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442181304&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b1/b177708a-3fd6-4188-aada-df2259e63d00?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441717705&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€49,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9e/9ef7aa4d-5b8c-4fb3-ae07-134b7b68fddd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=419724324&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c5/c58f50f6-c4aa-4159-b656-7ceaa45d44b8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439438180&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,300",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/aa/aa1332db-b0bd-4ca6-9a4d-03363ae2ca5a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442533351&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€48,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ae/ae3e7217-d2ad-42dd-8f29-9d170218e6b4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440090484&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,100",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b6/b6f0217b-e918-45e1-9284-f20151ff9664?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442585852&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€75,980",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/81/81b39e07-c12d-49dc-b885-6bd456fc9dce?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=429380029&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€82,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/11/113bb9f6-20ff-4201-bd5f-5588f3c2df35?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=428768366&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€39,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ac/ac61af15-9e6d-4fe4-bbcf-7c0ce373a70c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=429877246&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€39,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/17/17eb06b7-6a75-42c8-9ad0-70f403608569?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=381726536&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€94,890",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5e/5e0930e7-6b3f-4689-bcf6-3d999bb7d450?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=334340168&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€168,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fc/fcb381db-5a50-475f-8443-a39a1b603980?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439356142&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€98,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c2/c2623c7f-464c-4b9e-accd-8a155eaa57d5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=435620038&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€13,550",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e7/e72f124a-128c-4022-b7d9-8f3ca02198aa?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439546423&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d2/d23206ac-f5e3-4ac4-9daa-b299dbb825eb?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=432326604&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€129,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/24/2458c486-07d0-426d-8578-957af52bf775?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=306000595&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=10&ref=srp&refId=9420eed2-5c90-9a27-b1e4-e32def660463&s=Car&sb=rel&searchId=9420eed2-5c90-9a27-b1e4-e32def660463&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/82/82295e9b-a048-414e-be5a-7a26e7414a33?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441022626&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€140,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ad/adf744b1-262a-451b-8575-432ca3d3fdb8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=392935340&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€19,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/62/6250df89-ad7a-4dc4-b421-82673d24e13a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=379569369&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€108,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/15/15726314-a9fe-4d6c-8588-e7c8ee691d8e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439630206&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/28/28139b4b-62d9-45a9-bf8a-07557914c5b6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=408063764&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c4/c4b45ff2-2bfe-4b03-9065-5da652e6ec82?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441701978&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,699",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f4/f4c89046-5d1b-43ba-87da-f0ceca1aa16d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441859495&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3c/3c07b8d3-a56b-4781-9bc8-b11a7bb23cf1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441742443&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€16,444",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4a/4a249a63-c234-45f7-883b-46009f06d927?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439751508&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/31/3181795c-70f8-4765-9d56-df0e9306066d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442524702&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9a/9a3b33d8-3c76-43ff-b59a-1fb6afd1c726?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=437986873&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ce/ce329fc5-7b3e-45f8-9f6e-eda88503a7e7?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441332189&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€27,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/72/72166d0d-cc44-45ba-aba7-7b9ee328ab48?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=437246644&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/60/608b3f43-683b-4cba-95d7-74aed7ab2e55?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=431424332&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€59,950",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/40/40aca8a3-33ef-4255-b1cf-3863eeb44c92?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441668628&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€40,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc44fa4f-1f7a-4ffa-bede-3c447af98ce4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434077727&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€218,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/94/943d9751-4468-4636-807b-b254cab709c9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=380435795&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/cb/cb78aad2-b975-43e6-bb70-9215132f3d8a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442440804&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4f/4f021e72-5970-4179-8672-bbfb582b03a6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441019970&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c5/c55c746a-7573-41ea-9d2d-815d673b2b90?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438978389&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=11&ref=srp&refId=7a00845f-3e02-f12b-194f-f144d263d361&s=Car&sb=rel&searchId=7a00845f-3e02-f12b-194f-f144d263d361&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€60,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/85/85a9a69a-7179-41f3-b752-56cf39329a82?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440080428&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€149,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c6/c6adad12-7d4f-4903-a2a9-de13491006b7?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=407217924&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€99,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b6/b63711fe-0086-4aca-9bb4-4c44ab253140?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=353069285&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€56,499",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ec/ec0cc755-34c4-44ba-806a-3017491af6ba?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=430829692&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€59,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fb/fbba74eb-8ddb-4861-8be2-1dd052fb9263?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=405898358&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ed/ed441782-1098-4176-9096-98101ebe1e9e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440707520&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/56/56a1f0c9-e494-483c-9285-0dbb635fcee9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442018633&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€67,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/96/96c0c27c-fcf5-4ed5-993e-0288edfab5c6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441716590&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0e/0ec5a471-3d1c-4a6d-b14c-b0a7645fdc8d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442484449&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,100",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fd/fdd22114-7b54-40b3-b7bc-076bd0c01061?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=415077280&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€170,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bb/bb2ecba9-db56-49fb-9ab4-9973c8c53fea?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442076974&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€105,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e7/e776e342-8f5c-44bf-ae75-c71f53dc5f42?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440235994&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d1/d11a66eb-31b3-495b-b6a0-aa348f6247bf?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442089708&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€99,950",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/13/13ab0742-a9cd-447d-87d6-8df9b7324748?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438367049&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€89,890",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/34/34c61459-6832-4ac8-8f91-a165827ab13d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438179941&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€11,111",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4e/4ed40214-6808-49b0-bb5c-dc76c636a404?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441777805&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e3/e30b9232-3260-4b84-ad48-199bb7bb5503?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442217945&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7c/7cb5db46-aa3c-4f9e-ad9a-84c00e7b5d57?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=430094706&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€44,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/af/afa77e16-ceda-443c-acac-4966b8be3b6b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=385585989&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fa/facfb2ab-6b89-4fc3-802f-86d260886d99?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=427193390&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=12&ref=srp&refId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&s=Car&sb=rel&searchId=f305170f-5e5d-5ca3-1cf8-a9e8de8da4db&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€61,761¹",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3f/3f658ea5-bbf1-424d-9d7f-3891ee7740d1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438450406&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,890",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4c/4c200d6d-cee9-4c75-991f-0b680e85116e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439258793&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/52/52b29f6a-f248-4f4a-b8e0-70de386f0b42?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441555120&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d9/d9036071-7747-4bbc-a972-dd2e9ffbe926?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=307883165&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€63,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1a/1aa4ecbd-635a-4f9d-97b2-98f9b55a263e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441941740&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,400",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/25/25767e28-6fa2-40c5-b3dc-c7bf24db07bf?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441116051&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d0/d0c815f1-a5ba-436f-b066-e5f88aad3969?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442257395&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€99,880",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d0/d0225eb6-a9ef-4047-bfee-6bcbb6a91c78?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=402708800&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1d/1d67f87b-d7f6-452a-ad0c-45bb627ac807?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436042630&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€143,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d8/d803b058-685d-4c74-a3dc-c808189a68b4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=426968692&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,650",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/49/49be860e-d313-430c-93e0-110b896be918?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439793454&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€69,890",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ee/eef8494b-3a96-47f5-9bfd-249e2b7b3658?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=429888107&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fd/fd44f5b9-84fa-48f3-8486-b3b66bca9662?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439429176&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f9/f94f43f0-fa8f-4578-8f5f-d331b09496bb?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441624392&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7a/7a8f5adf-3a98-404e-bae9-16b059564c7e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436462160&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b8/b8af9679-c3bd-417f-9a12-75045762f8cd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=413675520&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/db/dbc4c365-258f-4abf-aa6c-ec794744f69e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441291446&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/49/49e89b8d-298f-43d0-a29c-8364defb59eb?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439289315&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3b/3b81cf08-8919-46b0-ab25-9bdbe6474a1f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442598688&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,350",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/d8/d8493e29-d81e-4c42-a391-f148e47fb5d8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441620177&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=13&ref=srp&refId=2e46761f-022f-5182-75aa-652136711bf3&s=Car&sb=rel&searchId=2e46761f-022f-5182-75aa-652136711bf3&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€69,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/15/152a3fc8-2471-4e77-83dc-608d8b4f6710?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439140739&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/56/56442b33-25d3-4086-9651-a59d7eace1e5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442371727&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,650",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0e/0eb415f4-1b10-455e-bfe9-cdcc765ed298?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442444639&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/14/14871fc4-4ad0-4b29-85fa-f539dd94451a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439439805&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc52fcb3-3163-400a-a02d-025b8df35183?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442421221&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c3/c365319c-90f4-45c7-b854-61978ff54913?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442328928&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5f/5f2a3e40-a5eb-498b-9d27-be72d85235c9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440838486&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,600",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9e/9e498dc0-e694-4b17-95ae-a934690b9b03?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442434612&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,600",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3a/3a5f5ad2-bfa3-4259-9903-934805e2f87a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440139404&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/52/52c109dd-32f1-4c36-8646-f1080a19d88e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439210805&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7a/7ab9595e-3810-4775-954e-0f3bafe44f04?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440653334&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,600",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/87/8758da4f-9d5c-427f-9335-194f044a4ebe?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442315778&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/6d/6dbb0833-87d9-40d3-aa43-c29cd987ab4e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440395080&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3c/3cb585e0-b437-409b-9dde-2edb1806dc60?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440836328&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/48/4879b9f0-9acb-4af2-b817-dadbb29181cb?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441660424&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bb/bb3974ae-bc94-48a8-8ee7-6059ec2402c4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442366360&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7f/7f369247-fe92-457c-83f0-c2bcb0ad22d6?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=421714892&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a6/a60eb10c-188f-4ab0-bda6-e8f5f1e64ef7?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=398687064&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,499",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ec/ec46e679-92d5-4c9d-bbeb-eb82a83d55e9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439084040&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€109,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a4/a44b88d0-276e-430d-ba6c-8502f6c69300?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=407963435&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=14&ref=srp&refId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&s=Car&sb=rel&searchId=d054e0ac-1000-7c58-c05f-ca6977ac6d1d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,150",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f1/f1b199b1-cb29-40d6-9bef-4b83358702d2?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442114376&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€158,890",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/30/30a290ca-38c9-4999-a66e-8b2f79e6658d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=410456085&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€85,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f0/f0f1ecec-fe91-44c0-9e0a-8603e425ad60?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=390685509&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€79,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/db/dbe51974-85f5-4265-aa73-61ae0002edea?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=242440121&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/91/91c97df2-3075-4217-8ce2-3bbf89449bbf?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442511300&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/44/4459031e-a0f9-4599-927f-1ee299816474?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441040946&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/13/13aa9e7b-6a56-41a3-b7a2-c0057cf60b60?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440242607&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,100",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/dc/dc5d3f82-aadf-43a5-b705-c0925dfb4f96?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442338683&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/32/329a5375-b20c-40f7-8420-b9718019ec79?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442313336&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€99,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ea/eab22330-0281-4f6f-8482-59137b23969c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=426358529&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€82,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/b2/b2609934-a13f-4cfb-b7d1-d716abc52e52?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441609376&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€138,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ad/ad58c9e9-4b01-4505-b0f5-79c961ab1883?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442242078&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€12,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2e/2ef20bf4-50c6-4f05-80cc-2124c75d384e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442051642&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/07/07608a03-2f40-49b7-8372-f816f4c6845a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440972641&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bf/bf1bc669-435c-4f50-9538-6fae2701b1d1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438981146&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc692f68-c6d4-46d7-a3ae-c48c532c7e83?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442494422&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5f/5f851f90-e812-40db-b14e-fa39f846ff97?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438066011&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€75,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5a/5a22d9ce-ae74-4846-b3c7-f45b08db7a47?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434656423&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ba/ba113529-87d4-4cfc-b7d0-ca218bdad86a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=435946301&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€76,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5a/5a81d2ae-8be5-4e91-9dc4-a2259993c44e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442419951&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=15&ref=srp&refId=a9b913c1-6f16-9a2c-4c24-b21503696c73&s=Car&sb=rel&searchId=a9b913c1-6f16-9a2c-4c24-b21503696c73&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€79,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ea/ea1362b0-b971-45b7-805a-332e46a85343?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=387195159&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/24/244d2bbd-04ff-4333-ba15-2faf65f01384?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440159020&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1f/1fd18def-dfff-4a3d-ab69-f2d37935832b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=433528990&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€79,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1e/1e00975c-d1cf-4c7f-9c78-7aba034468bc?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438321769&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/03/0350dc16-8526-4e1e-9925-9794ee2b1a35?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441673276&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/49/497db89a-b6ad-44b0-a069-c0fa1f63d4a1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=279912270&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€149,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/34/343c5a39-7fc2-450b-b8d7-6fd1d083121f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440043897&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€96,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/29/290f2739-b323-438b-a75d-231cb3597808?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=421922192&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€129,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/be/bec90ac0-d742-48de-8dfe-7498aba8ec2f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=426766863&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€95,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ef/ef828fff-52eb-42a6-b83d-2c545026b987?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441797343&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f9/f932a9e8-ad13-439e-9352-145b1f3937c5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=432463137&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€105,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/8f/8f41e91d-e56d-4338-9938-01c31ba643ef?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438708456&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€149,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7e/7eeaa8b2-7f34-46d4-ab0b-1a0f672eefd3?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=433874039&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,200",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3c/3ceb1215-f363-4772-8e8e-206c078e923f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440110997&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€159,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/92/92811e09-ccf9-4e8c-92bf-f51bce28372c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=415974706&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€149,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/96/96cb650f-b32b-4155-a6ba-a386172d85ec?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=423207630&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€95,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e3/e3aee45e-381a-4ba6-acb7-6b9aa6f12352?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=261396761&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€139,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c1/c1189046-fca7-4f90-8c72-5927b9ad7c05?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434539767&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€14,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/28/288fb6d2-d0ce-4965-9d5c-d8dede62067e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=432462143&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€169,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/48/48b96511-94e7-4bba-b3e0-c80e49bc21a5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=368099622&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=16&ref=srp&refId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&s=Car&sb=rel&searchId=f623165d-fdf3-356a-2b73-49fb8f4a79b0&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€128,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ba/ba07496a-f92e-4584-b06e-e7c4f616d8a5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442564194&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€63,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/e0/e044e3e1-bc2e-4f18-94d3-24ab60079413?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=378585204&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€79,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/19/190513b9-b9b6-443f-a673-4ac294a31c34?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=405862806&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€7,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/3e/3ee92dfb-5d7f-4242-99a9-27c38308f328?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440620055&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€8,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/11/11492661-1aec-4859-b509-66e74d4817db?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442009317&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€199,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/55/557d37c6-b340-4694-9e0c-50509a7aea6c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436834305&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/dc/dc78d337-f4e1-4328-ae32-252b7db08dd0?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441049482&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€5,400",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ff/ff50e4a6-941a-4029-a8c4-e403f9318209?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=433557685&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€99,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/34/34419754-e65e-4817-9ddd-824908e19906?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=415901606&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€169,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/16/16d089c3-5a68-43a7-8857-3646cfafef9a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=426031607&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€133,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2b/2bf5d1b0-1e4a-4071-b8fd-f70d796aa046?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441757401&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€107,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/92/92ee40d7-7c78-4d32-b31d-8bf126d2cdc2?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=429884458&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€179,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/1a/1aba6596-6899-44be-a72c-43beddf6b2ca?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=358910260&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€129,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/43/4383f5b9-1c4d-40d7-ba76-64e7e999ff9b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434389730&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€6,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4a/4a9a6efb-ee98-4d83-b1a5-c39bc84b8aea?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440859567&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€89,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9c/9c02b2f7-99fb-4e4c-9415-214cd55502e8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=333780582&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€129,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/7a/7a64b000-cafd-43b2-b533-446779d3db78?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436320823&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€195,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/6f/6f5491b8-66c6-4c33-a03a-c3b6afd6bdfb?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=388372320&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€58,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/05/05085c59-3d56-41f0-b0d5-de3738d8c31c?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=438154968&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/22/2220dbf4-3475-4aa1-ab1f-005373b9cc70?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440368970&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=17&ref=srp&refId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&s=Car&sb=rel&searchId=1569b1dc-95a5-a338-0add-3bd7adf0a13d&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,850",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/16/16be0ba8-570d-4d00-9358-fc25880edb53?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440628128&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€58,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2f/2f4083e7-b63c-4f7c-a0de-72b855fc2cb7?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440123163&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/5d/5d108a09-3aae-482e-8c28-f33884f8f8e4?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441203562&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€124,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/db/db3b198d-3245-4e61-a734-5ec211dec383?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440433482&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,800",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/57/571b6dc7-a910-4a1a-a769-28ebd84dd1a5?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=425510309&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/bd/bdc73e17-ad59-4c15-8cf0-78631efd53dd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442070086&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/fc/fc5d9cb4-0d86-42da-afaf-6bf660f925c8?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441921478&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€4,100",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0e/0e2526a8-14a0-4beb-9587-eb396b42d320?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441929041&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€71,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/54/5492bde1-f5c2-4e26-93ed-42a0bcbc7f13?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441735992&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€99,999",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/29/290b4f3c-fb49-4cba-9989-18e6f16eeddd?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=277195798&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,899",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/c8/c8c26375-38b7-4dfc-ad5e-aa076903cdad?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441310109&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2f/2fc39f36-8fe8-483f-bb1d-4aa22a2af847?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=424161613&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€9,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/ad/ad1c61f5-987b-4509-8666-4e8551e864fc?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441291110&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€114,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9c/9c2aed27-73f7-458a-b378-08ee42fe1399?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=389436757&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€2,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/43/43438ba2-eba6-47ae-9c57-024726abf93e?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=434664040&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,700",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/0e/0ea89ef6-0ccb-43f7-860f-faf7d2c7a69a?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439580843&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€80,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/20/207c6dd8-1bc6-4bad-91aa-e08841785ccc?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440882104&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€119,990",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/31/310ff443-fc2e-4c3e-92bf-1756e1035762?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436600212&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€120,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/9c/9c7ead57-aaaa-4644-8b6b-497ff91ce98b?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=439583820&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€129,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/a9/a9fc5d08-1674-43c3-a3a1-64c220518b5f?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=420944431&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=18&ref=srp&refId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&s=Car&sb=rel&searchId=545f15da-4f33-704f-5d3f-a2b3a4fdfd26&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€3,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/2d/2dabfdbd-d03b-430b-a632-b52c11c47dfc?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441786258&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€109,900",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/30/30336868-6f55-4ca4-906d-e87ddf0839df?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=394801002&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€145,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/4e/4e125d7b-e928-41e9-ba76-2ebd8260d085?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=420194218&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€395,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/01/0177304f-f2b6-4c26-8f39-d5b912f24d41?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=371685155&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€90,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/be/be0add06-23cf-4e6e-81bb-4940b5166ef1?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441286053&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€145,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/31/3106bf10-89f7-484b-bd55-4d53a93a73e3?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=441247800&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€97,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/18/1807f4fd-dab9-4ae0-983f-1e2cc4d0447d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=421060772&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€184,450¹",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/97/97f112ce-9468-4cb2-a7df-54fdd111578d?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=420520601&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€129,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/f4/f4f49c8d-1bf6-464b-92fe-ca403d738ed9?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=389801492&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€77,500",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/82/82de61d3-27c4-4883-b8b7-15762958d325?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=442236192&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€76,000",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/51/51bd8ec0-b654-4c3d-a0a6-82a8224ae239?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=436852696&action=eyeCatcher&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  },
+  {
+    "car_name": "Mercedes-Benz 220",
+    "maker": "Mercedes-Benz",
+    "price": "€1,234",
+    "image": "https://img.classistatic.de/api/v1/mo-prod/images/02/02803faa-a514-4ea0-9e99-fc48baf74215?rule=mo-160w",
+    "detail_url": "https://suchen.mobile.de/fahrzeuge/details.html?id=440969465&con=USED&dam=false&fr=1900%3A2005&isSearchRequest=true&lang=en&ms=17200%3B128%3B%3B&od=up&pageNumber=19&ref=srp&refId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&s=Car&sb=rel&searchId=d86bddf6-828f-c17b-a79b-701f0b8a1cef&vc=Car"
+  }
+]

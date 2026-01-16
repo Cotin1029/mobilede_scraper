@@ -1,21 +1,11 @@
-import 'dotenv/config';
 import { chromium } from 'playwright';
 import fs from 'fs';
 import path from 'path';
 
-// ScraperAPI設定
-const SCRAPERAPI_KEY = process.env.SCRAPERAPI_KEY;
-if (!SCRAPERAPI_KEY) {
-  console.error('❌ SCRAPERAPI_KEY environment variable is not set');
-  process.exit(1);
-}
-// ScraperAPIプロキシエンドポイント（HTTPS用）
-const SCRAPERAPI_PROXY = `http://scraperapi:${SCRAPERAPI_KEY}@proxy.scraperapi.com:8002`;
-
 const outputDir = path.resolve('./output');
 if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
 
-// 🎯 **従来の英語ヘッダー（変更なし）**
+// 🎯 **拡張：全項目CSVヘッダー**
 const HEADERS = [
   'car_name', 'price', 'maker', 'image', 'detail_url',
   'vehicle_condition', 'category', 'model_range', 'availability',
@@ -24,46 +14,6 @@ const HEADERS = [
   'number_of_owners', 'hu', 'climatisation', 'airbags',
   'interior_design', 'cylinders'
 ];
-
-// 🎯 **ユーザ指定：完全マッピングテーブル**
-const VALUE_TRANSLATIONS = {
-  // カテゴリ
-  'cabriolet/ roadster': 'カブリオレ/ロードスター',
-  'estate car': 'ステーションワゴン',
-  'off-road vehicle/ pickup truck/suv': 'オフロード車/ピックアップトラック/SUV',
-  'saloon': 'セダン',
-  'small car': '小型車',
-  'sports car/coupe': 'スポーツカー/クーペ',
-  'van/minibus': 'バン/ミニバス',
-  'other': 'その他',
-
-  // 燃料
-  'petrol': 'ガソリン',
-  'diesel': 'ディーゼル',
-  'electric': '電気',
-  'ethanol (ffv, e85, etc.)': 'エタノール（FFV、E85など）',
-  'hybrid (diesel/electric)': 'ハイブリッド（ディーゼル/電気）',
-  'hybrid (petrol/electric)': 'ハイブリッド（ガソリン/電気）',
-  'hydrogen': '水素',
-  'lpg': 'LPG（液化石油ガス）',
-  'natural gas': '天然ガス',
-  'plug-in hybrid': 'プラグインハイブリッド',
-
-  // 駆動方式
-  'all wheel drive': '四輪駆動',
-  'front wheel drive': '前輪駆動',
-  'rear wheel drive': '後輪駆動',
-  'internal combustion engine': '内燃機関',
-
-  // トランスミッション
-  'automatic': 'オートマチック',
-  'semi-automatic': 'セミオートマチック',
-  'manual gearbox': 'マニュアルギアボックス',
-
-  // 車両状態
-  'used vehicle': '中古車',
-  'accident-free': '事故歴なし'
-};
 
 const BATCH_SIZE = 50;
 const SAVE_INTERVAL = 10;
@@ -118,10 +68,11 @@ const carList = loadAllJsonFiles();
 console.log(`合計 ${carList.length}件読み込み完了`);
 if (carList.length === 0) process.exit(1);
 
-// ScraperAPIを使用するため、プロキシリストは不要
-console.log(`🔑 ScraperAPI使用: proxy.scraperapi.com:8002`);
+const proxyList = JSON.parse(fs.readFileSync('./proxies.json', 'utf8'));
+let proxyIndex = 0;
 
 let currentContext = null;
+let currentProxyIndex = null;
 let successCount = 0;
 let saveCount = 0;
 
@@ -144,22 +95,31 @@ function loadProgress() {
 }
 
 function saveProgress(processedIndex) {
-  try {
-    fs.writeFileSync(progressFilePath, JSON.stringify({
-      processed: processedIndex,
-      timestamp: new Date().toISOString(),
-      successCount,
-      failedCount: failedUrls.length,
-      totalCars: carList.length,
-      csvFile: csvFilePath
-    }, null, 2), 'utf8');
-    console.log(`💾 進捗保存: ${processedIndex}/${carList.length}`);
-  } catch (e) {
-    console.error('進捗保存エラー:', e.message);
-  }
+  fs.writeFileSync(progressFilePath, JSON.stringify({
+    processed: processedIndex,
+    timestamp: new Date().toISOString(),
+    successCount,
+    failedCount: failedUrls.length,
+    totalCars: carList.length,
+    csvFile: csvFilePath
+  }, null, 2), 'utf8');
 }
 
-// ScraperAPIを使用するため、プロキシ管理関数は不要
+function getNextProxy() {
+  if (proxyList.length === 0) throw new Error('プロキシなし');
+  const index = proxyIndex;
+  const proxy = proxyList[index];
+  proxyIndex = (proxyIndex + 1) % proxyList.length;
+  return { proxy, index };
+}
+
+function removeProxyByIndex(index) {
+  if (index >= 0 && index < proxyList.length) {
+    proxyList.splice(index, 1);
+    if (proxyIndex > index) proxyIndex--;
+    if (proxyIndex >= proxyList.length) proxyIndex = 0;
+  }
+}
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -182,14 +142,22 @@ async function handleConsentModal(page) {
   }
 }
 
+// 🎯 **拡張版：全17項目抽出**
 async function extractCarDetails(page) {
   return await page.evaluate(() => {
+    function getText(selector) {
+      const el = document.querySelector(selector);
+      return el ? el.textContent.trim() : '';
+    }
+    
     function getDdValue(labelText) {
       const dts = Array.from(document.querySelectorAll('dt'));
       for (const dt of dts) {
         if (dt.textContent.trim().toLowerCase().includes(labelText.toLowerCase())) {
           const dd = dt.nextElementSibling;
-          if (dd?.tagName.toLowerCase() === 'dd') return dd.textContent.trim();
+          if (dd?.tagName.toLowerCase() === 'dd') {
+            return dd.textContent.trim();
+          }
         }
       }
       return '';
@@ -208,60 +176,34 @@ async function extractCarDetails(page) {
     
     return {
       vehicle_condition: getDdValue('Vehicle condition') || getDataGridValue('Vehicle condition'),
-      category: getDdValue('Category') || getDataGridValue('Category'),
-      model_range: getDdValue('Model range'),
-      availability: getDdValue('Availability'),
+      category: getDdValue('Category') || getText('[data-testid="category"]'),
+      model_range: getDdValue('Model range') || getText('.model-range'),
+      availability: getDdValue('Availability') || getDataGridValue('Availability'),
+      
       mileage: getDdValue('Mileage'),
       cubic_capacity: getDdValue('Cubic capacity'),
       drive_type: getDdValue('Drive type'),
       fuel: getDdValue('Fuel'),
+      
       number_of_seats: getDdValue('Number of seats'),
       door_count: getDdValue('Door count'),
       transmission: getDdValue('Transmission'),
       first_registration: getDdValue('First registration'),
-      number_of_owners: getDdValue('Number of vehicle owners'),
-      hu: getDdValue('HU'),
+      
+      number_of_owners: getDdValue('Number of vehicle owners') || getDataGridValue('Number of owners'),
+      hu: getDdValue('HU') || getDataGridValue('HU'),
       climatisation: getDdValue('Climatisation'),
       airbags: getDdValue('Airbags'),
-      interior_design: getDdValue('Interior design'),
+      
+      interior_design: getDdValue('Interior design') || getDataGridValue('Interior'),
       cylinders: getDdValue('Cylinders')
     };
   });
 }
 
 function carToCsvRow(car) {
-  // 🎯 値のみ日本語変換
-  const translatedCar = {};
-  HEADERS.forEach(header => {
-    let value = car[header] ?? '';
-    if (typeof value === 'string') {
-      const lowerValue = value.toLowerCase().trim();
-      
-      // 完全一致
-      if (VALUE_TRANSLATIONS[lowerValue]) {
-        translatedCar[header] = VALUE_TRANSLATIONS[lowerValue];
-      }
-      // 部分一致
-      else {
-        for (const [enKey, jpValue] of Object.entries(VALUE_TRANSLATIONS)) {
-          if (lowerValue.includes(enKey.split('/')[0].toLowerCase().trim())) {
-            translatedCar[header] = jpValue;
-            break;
-          }
-        }
-      }
-      
-      // 変換なし
-      if (!translatedCar[header]) {
-        translatedCar[header] = value;
-      }
-    } else {
-      translatedCar[header] = value;
-    }
-  });
-  
   return HEADERS.map(header => {
-    let value = translatedCar[header];
+    let value = car[header] ?? '';
     const str = String(value).replace(/"/g, '""');
     return /[,\"\n]/.test(str) ? `"${str}"` : str;
   }).join(',');
@@ -273,7 +215,7 @@ function appendCarToCsv(car) {
     if (isFirstWrite) {
       fs.writeFileSync(csvFilePath, '\ufeff' + HEADERS.join(',') + '\n' + row + '\n', 'utf8');
       isFirstWrite = false;
-      console.log(`📄 CSV開始（${HEADERS.length}項目・日本語値変換）`);
+      console.log(`📄 CSVヘッダー作成（${HEADERS.length}項目）`);
     } else {
       fs.appendFileSync(csvFilePath, row + '\n', 'utf8');
     }
@@ -296,13 +238,13 @@ async function safeCloseContext() {
     console.warn('コンテキスト終了エラー:', e.message);
   } finally {
     currentContext = null;
+    currentProxyIndex = null;
     consecutiveEmpty = 0;
   }
-  console.log('✅ コンテキスト終了完了');
 }
 
 async function getOrCreateContext() {
-  if (currentContext) return { context: currentContext };
+  if (currentContext) return { context: currentContext, proxyIndex: currentProxyIndex };
   
   const userDataDir = path.join(outputDir, `tmp_ctx_${Date.now()}_${Math.random().toString(36).slice(2)}`);
   if (fs.existsSync(userDataDir)) fs.rmSync(userDataDir, { recursive: true, force: true });
@@ -310,38 +252,42 @@ async function getOrCreateContext() {
   
   const result = await launchBrowserWithProxy(userDataDir);
   currentContext = result.context;
-  console.log(`🆕 コンテキスト作成: ScraperAPI`);
+  currentProxyIndex = result.proxyIndex;
   return result;
 }
 
 async function launchBrowserWithProxy(userDataDir) {
-  try {
-    const launchOptions = {
-      headless: false,
-      userDataDir,
-      channel: 'chrome',
-      proxy: { server: SCRAPERAPI_PROXY },
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-dev-shm-usage',
-        '--disable-blink-features=AutomationControlled',
-        '--disable-extensions',
-        '--no-first-run'
-      ]
-    };
+  for (let i = 0; i < proxyList.length; i++) {
+    const { proxy, index } = getNextProxy();
+    try {
+      const launchOptions = {
+        headless: false,
+        userDataDir,
+        channel: 'chrome',
+        args: [
+          '--no-sandbox',
+          '--disable-setuid-sandbox',
+          '--disable-dev-shm-usage',
+          '--disable-blink-features=AutomationControlled',
+          '--disable-extensions',
+          '--no-first-run'
+        ]
+      };
+      if (proxy) launchOptions.proxy = { server: proxy };
 
-    const context = await Promise.race([
-      chromium.launchPersistentContext(userDataDir, launchOptions),
-      sleep(30000).then(() => { throw new Error('ブラウザ起動タイムアウト'); })
-    ]);
-    
-    console.log(`✅ ScraperAPIプロキシ接続成功`);
-    return { context };
-  } catch (e) {
-    console.error(`❌ ScraperAPIプロキシ接続失敗:`, e.message);
-    throw new Error('ScraperAPIプロキシ接続失敗');
+      const context = await Promise.race([
+        chromium.launchPersistentContext(userDataDir, launchOptions),
+        sleep(30000).then(() => { throw new Error('ブラウザ起動タイムアウト'); })
+      ]);
+      
+      console.log(`✅ プロキシ成功: ${proxy}`);
+      return { context, proxy, proxyIndex: index };
+    } catch (e) {
+      console.warn(`❌ プロキシ失敗 ${proxy}:`, e.message);
+      removeProxyByIndex(index);
+    }
   }
+  throw new Error('全プロキシ失敗');
 }
 
 async function isAccessDenied(response) {
@@ -359,59 +305,59 @@ async function fetchCarDataWithRetry(car, currentIndex) {
   
   while (urlRetries < MAX_RETRIES_PER_URL) {
     urlRetries++;
-    console.log(`🔄 URLリトライ ${urlRetries}/${MAX_RETRIES_PER_URL}: ${car.detail_url.slice(0, 80)}...`);
+    console.log(`🔄 URLリトライ ${urlRetries}/${MAX_RETRIES_PER_URL}: ${car.detail_url}`);
     
-    let detailPage = null;
-    try {
-      const { context } = await getOrCreateContext();
-      detailPage = await context.newPage();
+    for (let proxyRetry = 0; proxyRetry < proxyList.length; proxyRetry++) {
+      let detailPage = null;
+      try {
+        const { context } = await getOrCreateContext();
+        detailPage = await context.newPage();
 
-      const response = await Promise.race([
-        detailPage.goto(car.detail_url, { waitUntil: 'domcontentloaded', timeout: 60000 }),
-        sleep(60000).then(() => { throw new Error('ページ読み込みタイムアウト（60秒）'); })
-      ]);
+        const response = await Promise.race([
+          detailPage.goto(car.detail_url, { waitUntil: 'domcontentloaded', timeout: 30000 }),
+          sleep(30000).then(() => { throw new Error('ページ読み込みタイムアウト'); })
+        ]);
 
-      if (await isAccessDenied(response)) {
-        console.warn(`🚫 アクセス拒否`);
+        if (await isAccessDenied(response)) {
+          console.warn(`🚫 アクセス拒否 (${proxyRetry + 1}/${proxyList.length})`);
+          await detailPage.close();
+          continue;
+        }
+
+        const hasContent = await detailPage.waitForSelector('dt, dd, h1', { timeout: 8000 }).catch(() => false);
+        if (!hasContent) {
+          consecutiveEmpty++;
+          console.warn(`🚫 コンテンツなし (${consecutiveEmpty}/${MAX_CONSECUTIVE_EMPTY})`);
+          await detailPage.close();
+          if (consecutiveEmpty >= MAX_CONSECUTIVE_EMPTY) {
+            await safeCloseContext();
+          }
+          continue;
+        }
+
+        consecutiveEmpty = 0;
+        await handleConsentModal(detailPage);
+        await sleep(3000 + Math.random() * 2000); // 詳細項目用に延長
+        
+        const details = await extractCarDetails(detailPage);
+        Object.assign(car, details);
+        
         await detailPage.close();
-        await sleep(5000);
-        continue;
-      }
+        console.log(`✅ 全項目取得: ${car.car_name}`);
+        return car;
 
-      const hasContent = await detailPage.waitForSelector('dt, dd, h1', { timeout: 10000 }).catch(() => false);
-      if (!hasContent) {
-        consecutiveEmpty++;
-        console.warn(`🚫 コンテンツなし (${consecutiveEmpty}/${MAX_CONSECUTIVE_EMPTY})`);
-        await detailPage.close();
-        if (consecutiveEmpty >= MAX_CONSECUTIVE_EMPTY) {
+      } catch (e) {
+        console.warn(`💥 プロキシエラー ${proxyRetry + 1}/${proxyList.length}: ${e.message}`);
+        await detailPage?.close().catch(() => {});
+        if (e.message.includes('timeout') || e.message.includes('failed')) {
           await safeCloseContext();
         }
-        await sleep(5000);
-        continue;
       }
-
-      consecutiveEmpty = 0;
-      await handleConsentModal(detailPage);
-      await sleep(4000 + Math.random() * 3000);
-      
-      const details = await extractCarDetails(detailPage);
-      Object.assign(car, details);
-      
-      await detailPage.close();
-      console.log(`✅ 取得成功: ${car.car_name}`);
-      return car;
-
-    } catch (e) {
-      console.warn(`💥 ScraperAPIエラー: ${e.message}`);
-      await detailPage?.close().catch(() => {});
-      if (e.message.includes('TIMED_OUT') || e.message.includes('net::ERR')) {
-        await safeCloseContext();
-      }
-      await sleep(5000);
     }
+    await sleep(5000);
   }
   
-  console.error(`💥 ${MAX_RETRIES_PER_URL}回リトライ失敗 → スキップ: ${car.detail_url}`);
+  console.error(`💥 3回リトライ失敗 → スキップ: ${car.detail_url}`);
   failedUrls.push({
     url: car.detail_url,
     car_name: car.car_name || '不明',
@@ -422,10 +368,9 @@ async function fetchCarDataWithRetry(car, currentIndex) {
   return null;
 }
 
-// 🎯 メイン実行
 (async () => {
   const startIndex = loadProgress();
-  console.log(`📍 開始: ${startIndex}/${carList.length} (英語ヘッダー+日本語値)`);
+  console.log(`📍 開始: ${startIndex}/${carList.length} (${HEADERS.length}項目)`);
 
   try {
     for (let i = startIndex; i < carList.length; i++) {
@@ -437,7 +382,6 @@ async function fetchCarDataWithRetry(car, currentIndex) {
         successCount++;
         saveCount++;
         appendCarToCsv(result);
-        
         console.log(`✅ [${i + 1}/${carList.length}] ${result.car_name} (成功:${successCount})`);
       } else {
         console.log(`⏭️  [${i + 1}/${carList.length}] スキップ`);
@@ -461,7 +405,7 @@ async function fetchCarDataWithRetry(car, currentIndex) {
     saveFailedUrls();
   }
   
-  console.log(`\n🎉 処理完了！`);
+  console.log(`\n🎉 完了！`);
   console.log(`✅ 成功: ${successCount}/${carList.length}件`);
   console.log(`📋 失敗: ${failedUrls.length}件`);
   console.log(`📄 CSV: ${path.basename(csvFilePath)} (${HEADERS.length}項目)`);

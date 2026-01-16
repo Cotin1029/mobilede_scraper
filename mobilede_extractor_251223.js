@@ -1,20 +1,10 @@
-import 'dotenv/config';
 import { chromium } from 'patchright';
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const [,, modelName, modelCode] = process.argv;
-
-// ScraperAPI設定
-const SCRAPERAPI_KEY = process.env.SCRAPERAPI_KEY;
-if (!SCRAPERAPI_KEY) {
-  console.error('[ERROR] SCRAPERAPI_KEY environment variable is not set');
-  process.exit(1);
-}
-// ScraperAPIプロキシエンドポイント（HTTPS用）
-const SCRAPERAPI_PROXY = `http://scraperapi:${SCRAPERAPI_KEY}@proxy.scraperapi.com:8002`;
+const [,, modelName, modelCode, proxy] = process.argv;
 
 const outputDir = path.join(__dirname, 'input');
 const progressDir = path.join(__dirname, 'extraction_progress');
@@ -51,15 +41,19 @@ async function extractCarDataFromPage(page) {
 }
 
 (async () => {
-  // ScraperAPIプロキシの設定
+  // プロキシの設定
   const launchOptions = {
     channel: 'chrome',
-    headless: false,
-    proxy: { server: SCRAPERAPI_PROXY }
+    headless: false
   };
+  if (proxy) {
+    launchOptions.proxy = { server: proxy };
+  }
 
   console.log(`\n=== ${modelName} (${modelCode}) のスクレイピング開始 ===`);
-  console.log(`Using ScraperAPI proxy: proxy.scraperapi.com:8002`);
+  if (proxy) {
+    console.log(`Using proxy: ${proxy}`);
+  }
 
   // 進捗ファイルと出力ファイルのパス
   const progressFilePath = path.join(progressDir, `${modelName}_progress.json`);
